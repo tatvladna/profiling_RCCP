@@ -1,0 +1,10 @@
+__pycache__/
+*.pkl
+*.json
+*.csv
+*.txt
+*.prof
+*.png
+*.log
+*.pkl_chk
+*.png
