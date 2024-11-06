@@ -1,6 +1,6 @@
 # SUMMER PRACTICE
  
-ReactionCenterConditionPrediction (RCCP) - хемоинформатическая библиотека для предсказания реакционных центров химических реакци.
+ReactionCenterConditionPrediction (RCCP) - хемоинформатическая библиотека для предсказания реакционных центров химических реакций.
 
 Цель:
 - Заменить pkl на TinyDB(JSON).
